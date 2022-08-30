@@ -1,3 +1,7 @@
 # Environments
 
 .env
+
+# Packages
+
+node_modules
